@@ -1,0 +1,9 @@
+:root {
+  --background-color: whitesmoke;
+  --primary-color: hsl(180, 79%, 24%);
+  --accent-color: hsl(70, 86%, 25%);
+  --shadow-color: lightgray;
+  --card-bg: white;
+  --primary-text-color: #333;
+  --accent-text-color: #eee;
+}
